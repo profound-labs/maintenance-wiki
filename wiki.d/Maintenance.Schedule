@@ -6,7 +6,7 @@ csum=
 ctime=1378887524
 host=127.0.0.1
 name=Maintenance.Schedule
-rev=3
+rev=5
 targets=
-text=(:pagelist group=Maintenance $:scheduled=Jan* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Feb* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Mar* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Apr* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=May* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Jun* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Jul* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Aug* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Sep* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Oct* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Nov* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Dec* fmt=#schedule-list:)%0a%0a%0a%0a
-time=1379063358
+text=(:pagelist group=Maintenance $:scheduled=*Jan* monthname=January fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Feb* monthname=February fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Mar* monthname=March fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Apr* monthname=April fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*May* monthname=May fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Jun* monthname=June fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Jul* monthname=July fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Aug* monthname=August fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Sep* monthname=September fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Oct* monthname=October fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Nov* monthname=November fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=*Dec* monthname=December fmt=#schedule-list:)%0a%0a
+time=1379101022

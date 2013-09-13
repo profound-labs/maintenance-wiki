@@ -339,3 +339,13 @@ include_once("$FarmD/cookbook/epiceditor.php");
 
 Markup("landing-welcome", "directives", "/\(:landing-welcome:\)/", Keep('<button type="button" class="btn btn-primary"><a href="'.$ScriptUrl.'?n='.$DefaultPage.'">Main</a></button>'));
 
+function scheduleTitle($monthname, $scheduled) {
+  $mon = substr($monthname, 0, 3);
+  $theschedule = preg_replace("/,.*$/", '', substr($scheduled, stripos($scheduled, $mon)));
+  $theschedule = preg_replace("/^\w+ */", '', $theschedule);
+  return "$monthname $theschedule";
+}
+
+Markup("scheduletitle", "directives", "/\(:scheduletitle \"([^\"]+)\" \"([^\"]+)\":\)/e", "scheduleTitle('$1', '$2')");
+
+
