@@ -3,13 +3,18 @@ Maintenance Wiki
 
 A pre-configured PmWiki with plugins to kickstart a maintenance wiki.
 
-
 It's got [Boostrap 3](http://getbootstrap.com/),
 [EpicEditor](http://epiceditor.com/) and
 [MultiMarkdown](http://fletcherpenney.net/multimarkdown/).
 
 Only PHP is required. No database, PmWiki stores pages in plain-text
 files.
+
+See setup instructions below.
+
+Project home: [profound-labs.github.io/projects/maintenance-wiki/](http://profound-labs.github.io/projects/maintenance-wiki/)
+
+![Maintenance Wiki - Scheduled Notes](http://profound-labs.github.io/images/screenshots/maintenace-wiki-schedule.png)
 
 ## Setup
 
