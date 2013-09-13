@@ -1,0 +1,11 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Main.HomePage
+rev=229
+targets=Maintenance.Schedule
+text=(:div class="well" style="text-align: center;":)%0a'''[[Maintenance.Schedule|Maintenance Schedule]]'''%0a%0aNew Maintenance Page: (:newpagebox label="Create" base=Maintenance.PageName template=Maintenance.Template:)%0a(:div:)%0a%0a
+time=1379062755

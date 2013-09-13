@@ -1,0 +1,12 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1378825168
+host=127.0.0.1
+name=Site.LocalTemplates
+rev=14
+targets=
+text=!!fmt=#include-all-group%0a%0a[@%0a[[#include-all]]%0a(:template defaults order=title list=normal name=-Template,-All,-Schedule:)%0a(:template each:)%0a! {=$Group} - {=$Title} %25apply=block class=pagebreak%25%0a%0a(:include {=$FullName} basepage={=$FullName} self=0:)(:nl:)%0a%0a[[#include-allend]]%0a@]%0a%0a!!fmt=#schedule-list%0a%0aList for the schedule entries.%0a%0a[@%0a[[#schedule-list]]%0a(:template defaults order=$:scheduled list=normal name=-Template:)%0a(:template first {=$:scheduled}:)%0a!!! {=$:scheduled}%0a(:template each:)%0a* [[{=$FullName}|+]](:if ! equal "{=$:summary}" "":) - {=$:summary}(:ifend:)%0a[[#schedule-listend]]%0a@]%0a%0a!!fmt=#title-scheduled-summary%0a%0a[@%0a[[#title-scheduled-summary]]%0a(:template defaults list=normal name=-Template:)%0a(:template each:)%0a* [[{=$FullName}|+]](:if ! equal "{=$:scheduled}" "":) - '''{=$:scheduled}'''(:ifend:)(:if ! equal "{=$:summary}" "":) - {=$:summary}(:ifend:)%0a[[#title-scheduled-summaryend]]%0a@]%0a%0a!!fmt=#dropdown-menu%0a%0aA list format for generating dropdowns.%0a%0a[@%0a[[#dropdown-menu]]%0a(:template defaults order=title wrap=none name=-Template:)%0a(:template first {=$Title}:)%0a* [[{=$FullName}|+]]%25list class="dropdown-menu"%25%0a(:template ! first {=$Title}:)%0a* [[{=$FullName}|+]]%0a[[#dropdown-menuend]]%0a@]%0a%0a
+time=1378892503

@@ -1,0 +1,12 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1378886126
+host=127.0.0.1
+name=Kusala.GroupHeader
+rev=4
+targets=
+text=(:if ! equal "{*$:summary}" "":)%0a(:div class="well":)%0a{*$:summary}%0a(:divend:)%0a(:ifend:)
+time=1378886527

@@ -1,1 +1,13 @@
 .sass-cache
+.rvmrc
+TODO
+TODO.md
+TODO.org
+**.swp
+wiki.d/.flock
+wiki.d/.lastmod
+wiki.d/.pageindex
+wiki.d/Site.AllRecentChanges
+wiki.d/*.RecentChanges
+wiki.d/*.Status
+

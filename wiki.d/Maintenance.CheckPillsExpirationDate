@@ -1,0 +1,16 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1379063217
+host=127.0.0.1
+name=Maintenance.CheckPillsExpirationDate
+rev=2
+targets=Category.Medical
+text=(:title Check Pill's Expiration Dates:)%0a(:summary: check pills in all the cupboards:)%0a(:scheduled: July week 4:)%0a%0a[[Category.Medical]]%0a%0a(:multimarkdown:)%0a%0aDescribe...%0a%0a(:multimarkdownend:)%0a%0a
+time=1379064889
+title=Check Pill's Expiration Dates
+author:1379064889=admin
+diff:1379064889:1379063217:=
+host:1379064889=127.0.0.1

@@ -1,0 +1,30 @@
+GIT
+  remote: git://github.com/chriseppstein/compass.git
+  revision: 4a675fd7c7c336c5236819deef8bbe1b684bcdc7
+  specs:
+    compass (0.13.alpha.4.4a675fd)
+      chunky_png (~> 1.2)
+      listen (~> 1.0.0)
+      sass (>= 3.2.5, < 3.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chunky_png (1.2.8)
+    ffi (1.9.0)
+    listen (1.0.3)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9)
+      rb-kqueue (>= 0.2)
+    rb-fsevent (0.9.3)
+    rb-inotify (0.9.1)
+      ffi (>= 0.5.0)
+    rb-kqueue (0.2.0)
+      ffi (>= 0.5.0)
+    sass (3.2.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  compass!

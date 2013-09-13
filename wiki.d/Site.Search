@@ -1,0 +1,12 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Site.Search
+rev=24
+targets=
+text=(:title Search:)%0a(:summary:Search the wiki:)%0a%0a(:extract:)%0a%0a(:searchresults:)%0a%0a
+time=1378899564
+title=Search

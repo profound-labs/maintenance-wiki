@@ -1,0 +1,16 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1379063069
+host=127.0.0.1
+name=Maintenance.NearbyHospitals
+rev=2
+targets=Category.Medical,Category.OutOfDate
+text=(:title Nearby Hospitals:)%0a(:summary: nearby hospitals:)%0a(:scheduled::)%0a%0a[[Category.Medical]] [[Category.OutOfDate]]%0a%0a(:multimarkdown:)%0a%0aHospitals...%0a%0a(:multimarkdownend:)%0a%0a
+time=1379064904
+title=Nearby Hospitals
+author:1379064904=admin
+diff:1379064904:1379063069:=
+host:1379064904=127.0.0.1

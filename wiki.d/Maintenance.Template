@@ -1,0 +1,13 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1378884061
+host=127.0.0.1
+name=Monastery.Template
+rev=3
+targets=Category.Books
+text=(:title Title of Entry CHANGEME:)%0a(:summary: in a few words CHANGEME:)%0a(:scheduled: July week 5 CHANGEME:)%0a%0a[[Category.Books]]%0a%0a(:multimarkdown:)%0a%0aI and Pangur Ban[^pangur] my cat,\\%0a'Tis a like task we are at:\\%0aHunting mice is his delight,\\%0aHunting words I sit all night.%0a%0a-- *Anon., (Irish, 8th century)*%0a%0a[^pangur]: Pangur Bán - translated - White Cat%0a%0a(:multimarkdownend:)%0a%0a
+time=1378885841
+title=Title of Entry CHANGEME

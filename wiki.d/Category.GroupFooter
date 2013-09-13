@@ -1,0 +1,11 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Category.GroupFooter
+rev=68
+targets=
+text=(:Summary:content generated for Category list pages:)%0a----%0a[--'''{*$:Summary}'''--]%0a(:pagelist link={*$FullName} list=normal fmt=#title:)%0a
+time=1378824679

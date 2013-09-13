@@ -1,0 +1,13 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1378893937
+host=127.0.0.1
+name=Main.Template
+rev=1
+targets=
+text=(:title The Title CHANGEME:)%0a%0aThe content. CHANGEME
+time=1378893937
+title=The Title CHANGEME

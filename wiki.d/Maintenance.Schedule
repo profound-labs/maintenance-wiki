@@ -1,0 +1,12 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1378887524
+host=127.0.0.1
+name=Maintenance.Schedule
+rev=3
+targets=
+text=(:pagelist group=Maintenance $:scheduled=Jan* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Feb* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Mar* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Apr* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=May* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Jun* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Jul* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Aug* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Sep* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Oct* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Nov* fmt=#schedule-list:)%0a%0a(:pagelist group=Maintenance $:scheduled=Dec* fmt=#schedule-list:)%0a%0a%0a%0a
+time=1379063358

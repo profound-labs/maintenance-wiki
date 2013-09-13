@@ -1,0 +1,16 @@
+version=pmwiki-2.2.54 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.71 Chrome/28.0.1500.71 Safari/537.36
+author=admin
+charset=UTF-8
+csum=
+ctime=1379063628
+host=127.0.0.1
+name=Maintenance.CleanTheGuestHouse
+rev=2
+targets=Category.Guests
+text=(:title Clean The Guest House:)%0a(:summary: areas that need cleaning:)%0a(:scheduled: November week 1:)%0a%0a[[Category.Guests]]%0a%0a(:multimarkdown:)%0a%0aDescribe...%0a%0a(:multimarkdownend:)%0a%0a
+time=1379064898
+title=Clean The Guest House
+author:1379064898=admin
+diff:1379064898:1379063628:=
+host:1379064898=127.0.0.1
