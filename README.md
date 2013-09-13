@@ -40,11 +40,9 @@ Optionally, if you are going to need Sass + Compass for the stylesheets:
 
 ## Login
 
-Authentication is via [PmWiki's AuthUser][]. If you have cloned this setup, the
+Authentication is via [PmWiki's AuthUser](http://www.pmwiki.org/wiki/PmWiki/AuthUser). If you have cloned this setup, the
 default username and password is `admin : admin`. Visit
 `/index.php?n=SiteAdmin.AuthUser&action=edit` and change it.
-
-[PmWiki's AuthUser](http://www.pmwiki.org/wiki/PmWiki/AuthUser)
 
 ## Landing page
 
