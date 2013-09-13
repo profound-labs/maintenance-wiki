@@ -3,7 +3,10 @@ Maintenance Wiki
 
 A pre-configured PmWiki with plugins to kickstart a maintenance wiki.
 
-It's got Boostrap 3, EpicEditor and MultiMarkdown.
+
+It's got [Boostrap 3](http://getbootstrap.com/),
+[EpicEditor](http://epiceditor.com/) and
+[MultiMarkdown](http://fletcherpenney.net/multimarkdown/).
 
 Only PHP is required. No database, PmWiki stores pages in plain-text
 files.
